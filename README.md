@@ -70,6 +70,6 @@ The source code is organized within the `src/` directory, following an MVC patte
 - `routes/`: API endpoint definitions.
 
 ### Credits & License
-Authored by: 
+Authored by: Shreya Singh
 
 This project is licensed under the ISC License.
